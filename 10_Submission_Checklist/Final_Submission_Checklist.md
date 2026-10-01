@@ -1,0 +1,30 @@
+# Week 5 Submission Checklist
+
+- [x] Executive summary
+- [x] Evaluation objective and predictive problem
+- [x] Dataset and model description
+- [x] Chronological train/test split
+- [x] Time-series cross-validation
+- [x] MAE explanation and calculation
+- [x] RMSE explanation and calculation
+- [x] R² explanation and calculation
+- [x] MAPE explanation and limitations
+- [x] Baseline comparison
+- [x] Multiple model comparison
+- [x] Residual/error analysis
+- [x] Crop-level error analysis
+- [x] State-level error analysis
+- [x] Year-level error analysis
+- [x] Hypothetical agricultural error examples
+- [x] Hyperparameter tuning
+- [x] Regularization
+- [x] Optimization comparison
+- [x] Computational considerations
+- [x] Limitations
+- [x] Future improvements
+- [x] Agribusiness reporting guidelines
+- [x] Reproducible Python script
+- [x] Visualizations
+- [x] Results tables
+- [x] Final recommendations
+- [x] ZIP integrity verification

@@ -1,0 +1,7 @@
+step,optimization,settings,purpose
+1,Baseline comparison,"Linear, Ridge, Lasso, Decision Tree, Random Forest, Gradient Boosting",Establish reference performance
+2,Time-series CV,5 chronological folds,Estimate stability without future leakage
+3,RF grid search,"n_estimators, max_depth, min_samples_leaf",Control variance/complexity
+4,Ridge tuning,alpha values 0.001–100,Test regularization strength
+5,Final holdout,2023–2025 untouched until selection,Estimate future-style performance
+6,Segment analysis,"crop, state, year",Detect uneven errors/bias
